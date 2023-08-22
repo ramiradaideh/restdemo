@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestdemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("GFG" + "sd" + "gfg");
+		System.out.println("GFG" + "d" + "gfg");
 		SpringApplication.run(RestdemoApplication.class, args);
 	}
 
