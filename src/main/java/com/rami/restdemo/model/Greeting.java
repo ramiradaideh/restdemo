@@ -1,4 +1,4 @@
-package model;
+package com.rami.restdemo.model;
 
 public class Greeting {
 
