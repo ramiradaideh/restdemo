@@ -24,8 +24,7 @@ public class CallTicketMaster {
             connection.followRedirects(true); // Allow redirects if necessary
 
             // Execute the HTTP GET request
-            Document document = connection.get();
-                        
+            Document document = connection.get();                        
             // You can process the HTML content as needed
             String htmlContent = document.html();
             
